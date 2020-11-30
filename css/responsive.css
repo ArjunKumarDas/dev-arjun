@@ -35,11 +35,11 @@
     margin-left: 10px;    
 }
     .work-item .overlay h4 {
-  display: none;
+     display: none;
 }
 
 .work-item .overlay p {
-  display: none;
+   display: none;
 }
      .see-project-bg{
     margin-top: 100px;
@@ -47,7 +47,108 @@
     .support-title h3{
     font-size: 14px;
 }
+.see-project-titles p {
+   
+    font-size: 18px;
+    text-align: center;
 }
+.sec-title h2{
+    margin-top: -25px;
+   font-size: 28px;
+}
+
+
+.header-title h3 {
+ font-size: 18px;
+ text-align: center
+}
+.header-title h2 {
+    font-size: 28px;
+    padding-left:30px;
+    text-align: center;
+   }
+  
+
+   .header-title h4 {
+    padding-top: 10px;
+    font-size: 28px;
+    text-align: center;
+   }
+   .header-title h1 {
+    padding-top: 15px;
+    
+    padding-left: 25%;
+    font-size: 32px;
+   
+   }
+.header-title p {
+    display: none;
+}
+.header-title {
+    margin-bottom: 70px !important;
+}
+.about-page h2 {
+     margin-top: -60px;
+    font-size:22px;
+    
+}
+
+.work-item figcaption{
+ display: none;
+}
+.project-wrapper{
+  margin-top: 35px;
+}
+.check-protfolio {
+    text-align: center;
+    padding-bottom: 50px;
+}
+.news-title h2{
+    font-size: 24px;
+    margin-top: -90px;
+}
+.news-details h3 {
+    text-align: center;
+    font-size: 14px;
+}
+.news-details h4{
+    text-align: center;
+    font-size: 12px;
+}
+.news-details h5{
+    text-align: center;
+}
+.news-details p {
+    padding: 0px 10px;
+    text-align: justify;
+}
+.my-blog{
+    margin-top: -60px;
+    margin-bottom: -60px;
+}
+.my-blog-title p{
+    text-align: center;
+    font-size: 18px;
+}
+.my-blog-link  {
+    text-align: center;
+}
+.reed-it {
+    text-align: center;
+}
+.protfolio-title h2{
+    text-align: center;
+    font-size: 18px;
+}
+.from-title h5{
+    margin-top: -100px;
+  font-size: 12px;
+}
+.footer-bottom-details p {
+ font-size: 8px;
+}
+}
+
 /* Wide Mobile Layout: 480px. */
 @media(min-width: 480px) and (max-width: 767px) { 
 .work-item {

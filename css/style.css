@@ -1176,7 +1176,19 @@ about-page h2:after{
 }
 
 .margin{
-    margin-top: -30px;
+    margin-top: -45px;
+    
+}
+.margin a {
+    border: 1px solid purple;
+    background-color: rgb(16, 169, 230);
+    padding: 20px;
+    color: white;
+}
+.margin a:hover {
+    background-color: green;
+    padding: 15px;
+    color: yellow;
 }
 .p-left{
     padding-left: 20px;
@@ -1187,4 +1199,15 @@ about-page h2:after{
 .text-p{
     font-size: 16px;
     font-weight: 700px
+}
+.skill li  {
+    color: black;
+    padding: 15px 10px;
+    border-bottom: 1px solid gray;
+}
+.send{
+    background-color: rgb(16, 169, 230);
+    color: white;
+    margin-top: 10px;
+    padding: 10px 50px;
 }
